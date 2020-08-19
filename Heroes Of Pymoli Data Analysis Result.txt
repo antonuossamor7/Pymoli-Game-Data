@@ -1,0 +1,8 @@
+Heroes Of Pymoli Data Analysis Result
+• The majority of players are ages between (15-30) which make up for 76.74%, 
+442 players out of the total players 576 with a purchase cost of $1819 out of $2379.
+
+• Females have a higher average purchase Price than males by $0.18
+
+
+• Average total purchase per person for the age range 35-39 are the heighest by $4.76.
